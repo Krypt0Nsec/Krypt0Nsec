@@ -1,8 +1,7 @@
 
 # 🧑‍💻 About Me:
 
-## Cyber Security Researcher | Junior Back-End Developer <br>
-### 🐟 Hi there, I'm Alperen <br>💻 I'm looking to work on Cyber Security, C#
+## Software Testing Specialist <br>
 
 # <br>🌐 Socials:
 
